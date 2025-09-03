@@ -45,7 +45,7 @@
 
 ##  GitHub Stats
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage)
+  <img src="https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---

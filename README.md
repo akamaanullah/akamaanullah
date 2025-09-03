@@ -6,6 +6,16 @@
 
 ---
 
+##  Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Let’s Connect](#lets-connect)
+- [Timeline](#timeline)
+
+---
+
 ##  About Me
 - Passionate about building scalable web & mobile apps.
 - Skilled in UI/UX design and admin dashboard systems.
@@ -21,6 +31,8 @@
 ---
 
 ##  Featured Projects
+(Also pinned to my GitHub profile for quick access)
+
 | Project Name         | Description                                                           |
 |----------------------|-------------------------------------------------------------------------|
 | **RTG Workspace**     | Project management tool with drag-and-drop boards and real-time dashboards |
@@ -37,7 +49,8 @@
 
 ---
 
-##  Connect with Me
+##  Let’s Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?logo=internet-explorer&logoColor=white)](https://amaanullah.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/akamaanullah)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/akamaanullah)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://instagram.com/akamaanullah)

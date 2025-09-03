@@ -37,7 +37,7 @@
 |----------------------------|--------------------------------------------------|--------------|
 | **Tour Guide Mobile App**  | Explore Pakistan like never before—mobile app with destination guides | [View](https://amaanullah.com/portfolio-details.php?slug=tour-guide-mobile-app--explore-pakistan-like-never-before) |
 | **Chatrox Mobile App**     | Real-time communication on the go—Flutter mobile chat app | [View](https://amaanullah.com/portfolio-details.php?slug=chatrox-mobile-app--real-time-communication-on-the-go) |
-| **Chatrox Web App**        | Web-based real-time chat & collaboration platform | [View](https://amaanullah.com/portfolio-details.php?slug=chatrox--real-time-chat--collaboration-web-app) :contentReference[oaicite:1]{index=1} |
+| **Chatrox Web App**        | Web-based real-time chat & collaboration platform | [View](https://amaanullah.com/portfolio-details.php?slug=chatrox--real-time-chat--collaboration-web-app) |
 | **CRM – Velspra**          | Sales & leads management system with dashboards & RBAC | [View](https://amaanullah.com/portfolio-details.php?slug=crm-velspra--sales--leads-management-system) |
 | **Umrah Al Badal**         | Umrah service platform for booking & management | [View](https://amaanullah.com/portfolio-details.php?slug=umrah-al-badal--umrah-service-platform) |
 

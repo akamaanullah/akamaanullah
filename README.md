@@ -18,27 +18,28 @@
 
 ##  About Me
 - Passionate about building scalable web & mobile apps.
-- Skilled in UI/UX design and admin dashboard systems.
-- Currently mentoring junior devs and exploring React.js and Bun.js.
+- Skilled in UI/UX design and admin dashboards.
+- Currently mentoring junior devs and expanding into React.js & Bun.js.
 
 ---
 
 ##  Skills
-| Backend       | Frontend            | Mobile          | Tools & Design         |
-|---------------|---------------------|------------------|-------------------------|
-| PHP, Laravel  | HTML, CSS, JS, jQuery | Flutter, Dart | Figma, Photoshop, Git  |
+| Backend       | Frontend             | Mobile          | Design & Tools |
+|---------------|----------------------|------------------|------------------|
+| PHP, Laravel, MySQL  | HTML, CSS, JavaScript, jQuery | Flutter, Dart | Figma, Photoshop, Git |
 
 ---
 
 ##  Featured Projects
 (Also pinned to my GitHub profile for quick access)
 
-| Project Name         | Description                                                           |
-|----------------------|-------------------------------------------------------------------------|
-| **RTG Workspace**     | Project management tool with drag-and-drop boards and real-time dashboards |
-| **IT Hardware Bin**   | B2B/B2C e-commerce platform with 2000+ products and quote system         |
-| **Expense Voyage**    | Travel budgeting app with AJAX-driven real-time UI                     |
-| **Need Packaging**    | Custom e-commerce with quick quote workflows                           |
+| Project Name               | Description                                     | View Details |
+|----------------------------|--------------------------------------------------|--------------|
+| **Tour Guide Mobile App**  | Explore Pakistan like never before—mobile app with destination guides | [View](https://amaanullah.com/portfolio-details.php?slug=tour-guide-mobile-app--explore-pakistan-like-never-before) |
+| **Chatrox Mobile App**     | Real-time communication on the go—Flutter mobile chat app | [View](https://amaanullah.com/portfolio-details.php?slug=chatrox-mobile-app--real-time-communication-on-the-go) |
+| **Chatrox Web App**        | Web-based real-time chat & collaboration platform | [View](https://amaanullah.com/portfolio-details.php?slug=chatrox--real-time-chat--collaboration-web-app) :contentReference[oaicite:1]{index=1} |
+| **CRM – Velspra**          | Sales & leads management system with dashboards & RBAC | [View](https://amaanullah.com/portfolio-details.php?slug=crm-velspra--sales--leads-management-system) |
+| **Umrah Al Badal**         | Umrah service platform for booking & management | [View](https://amaanullah.com/portfolio-details.php?slug=umrah-al-badal--umrah-service-platform) |
 
 ---
 
@@ -63,7 +64,7 @@
 <details>
 <summary>  Timeline</summary>
 
-- **2023**: Started freelancing; Laravel & Flutter projects  
+- **2023**: Started freelancing with Laravel & Flutter  
 - **2024**: Built e-commerce platforms & dashboards  
-- **2025**: Transitioned into product design, mentoring roles  
+- **2025**: Transitioned into product design and mentoring flows  
 </details>

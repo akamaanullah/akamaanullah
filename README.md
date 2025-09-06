@@ -56,6 +56,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/akamaanullah)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://instagram.com/akamaanullah)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance)](https://behance.net/muhammadzain121)
+[![linktree](https://img.shields.io/badge/Linktree-green?logo=linktree)](https://linktr.ee/akamaanullah)
 
 ---
 

@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <!-- ========================== HERO ========================== -->
 <div align="center">
 
@@ -32,46 +34,56 @@
 ## 📌 Table of Contents
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-0ea5e9?style=for-the-badge" alt="About Me" /></a>
-  <a href="#-highlights"><img src="https://img.shields.io/badge/Highlights-9333ea?style=for-the-badge" alt="Highlights" /></a>
-  <a href="#-now"><img src="https://img.shields.io/badge/Now-14b8a6?style=for-the-badge" alt="Now" /></a>
-  <a href="#-services"><img src="https://img.shields.io/badge/Services-22c55e?style=for-the-badge" alt="Services" /></a>
-  <a href="#-skills"><img src="https://img.shields.io/badge/Skills-f59e0b?style=for-the-badge" alt="Skills" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-ef4444?style=for-the-badge" alt="Featured Projects" /></a>
-  <a href="#-open-source--writing"><img src="https://img.shields.io/badge/Open%20Source%20%26%20Writing-64748b?style=for-the-badge" alt="Open Source & Writing" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-0ea5e9?style=for-the-badge" alt="GitHub Stats" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Let%E2%80%99s%20Connect-9333ea?style=for-the-badge" alt="Let's Connect" /></a>
-  <a href="#-timeline"><img src="https://img.shields.io/badge/Timeline-14b8a6?style=for-the-badge" alt="Timeline" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0ea5e9?style=for-the-badge" alt="About Me" /></a>
+  <a href="#highlights"><img src="https://img.shields.io/badge/Highlights-9333ea?style=for-the-badge" alt="Highlights" /></a>
+  <a href="#now"><img src="https://img.shields.io/badge/Now-14b8a6?style=for-the-badge" alt="Now" /></a>
+  <a href="#services"><img src="https://img.shields.io/badge/Services-22c55e?style=for-the-badge" alt="Services" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Skills-f59e0b?style=for-the-badge" alt="Skills" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-ef4444?style=for-the-badge" alt="Featured Projects" /></a>
+  <a href="#writing"><img src="https://img.shields.io/badge/Open%20Source%20%26%20Writing-64748b?style=for-the-badge" alt="Open Source & Writing" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/GitHub%20Stats-0ea5e9?style=for-the-badge" alt="GitHub Stats" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Let%E2%80%99s%20Connect-9333ea?style=for-the-badge" alt="Let's Connect" /></a>
+  <a href="#timeline"><img src="https://img.shields.io/badge/Timeline-14b8a6?style=for-the-badge" alt="Timeline" /></a>
 </p>
 
 ---
 
+<a id="about"></a>
 ## 🔎 About Me
 I ship **real products** that blend **great UX** with **clean, scalable code**. I love turning ideas into usable software — **wireframe → prototype → production**, with a focus on observability and maintainability.
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="highlights"></a>
 ## 🏅 Highlights
 - 🚀 Built **real-time chat & CRM dashboards** (role-based access, analytics, exports)
 - 📱 Delivered **Flutter + Firebase** mobile apps with auth, storage & push notifications
 - 🧩 Designed **component libraries** in Figma → faster handoff, consistent UI
 - 🧑‍🏫 Mentoring juniors; learning **React.js / Node.js / Bun.js** for full JS stack
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="now"></a>
 ## 📅 Now
 - 🚧 Building: internal **CRM/Chat** tools & analytics dashboards  
 - 📖 Learning: **React Query, Next.js, RSC**, **Bun runtime**  
 - 🧪 Exploring: **WebSockets**, **ETL/reporting** for product teams
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="services"></a>
 ## 🔍 Services
 - ✅ Custom **Laravel** apps (RBAC, multi-tenant, queues, mailers)
 - ✅ **Flutter** apps (Auth, Firestore/Realtime DB, FCM, media uploads)
@@ -79,10 +91,13 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 - ✅ **UX design** systems (Figma → dev-ready specs)
 - ✅ **Optimizations:** DB indexing, caching, API performance
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="skills"></a>
 ## 🧰 Skills
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,react,nodejs,flutter,dart,firebase,git,github,figma,ps,vscode,bootstrap,linux" alt="skills icon set" />
@@ -91,10 +106,13 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 **Primary Stack:** PHP/Laravel • MySQL • Flutter/Firebase  
 **Design & Tools:** Figma, Photoshop, Git, CI/CD, REST APIs
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="projects"></a>
 ## 🚀 Featured Projects
 <sub>(Also pinned on my profile)</sub>
 
@@ -113,7 +131,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
     </td>
     <td>Explore Pakistan with curated destinations, maps & user reviews.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase" height="22" alt="Flutter, Firebase" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase" height="20" alt="Flutter, Firebase" />
       <code>Flutter</code> <code>Firebase</code>
     </td>
     <td>
@@ -130,7 +148,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
     </td>
     <td>Groups, media sharing, push notifications, typing/presence.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="22" alt="Flutter, Dart, Firebase" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="20" alt="Flutter, Dart, Firebase" />
       <code>Flutter</code> <code>Dart</code> <code>Firebase</code>
     </td>
     <td>
@@ -147,7 +165,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
     </td>
     <td>Web chat with pins, files, and presence—built for teams.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,js" height="22" alt="PHP, Laravel, JavaScript" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,js" height="20" alt="PHP, Laravel, JavaScript" />
       <code>Laravel</code> <code>JS</code>
     </td>
     <td>
@@ -164,7 +182,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
     </td>
     <td>RBAC, dashboards, exports, activity log & performance insights.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap" height="22" alt="Laravel, MySQL, Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap" height="20" alt="Laravel, MySQL, Bootstrap" />
       <code>Laravel</code> <code>MySQL</code>
     </td>
     <td>
@@ -181,7 +199,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
     </td>
     <td>Service workflow, orders, payments & admin controls.</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="22" alt="PHP, Laravel, MySQL" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="20" alt="PHP, Laravel, MySQL" />
       <code>Laravel</code> <code>MySQL</code>
     </td>
     <td>
@@ -199,46 +217,46 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 
 </details>
 
-<!-- Back to top (badge button) -->
 <p align="right">
-  <a href="#-table-of-contents">
-    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20top-9333ea?style=for-the-badge" alt="Back to top" />
-  </a>
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
 </p>
-
 
 ---
 
+<a id="writing"></a>
 ## 🌿 Open Source & Writing
 - I write about **clean architecture**, **UI systems**, and **product analytics**.  
 - 💌 Collaborations: **[info@amaanullah.com](mailto:info@amaanullah.com)**
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="stats"></a>
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&theme=radical" alt="GitHub stats for Amaanullah (AK)" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=akamaanullah&theme=radical" alt="GitHub contribution streak for Amaanullah (AK)" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamaanullah&layout=compact&theme=radical" alt="Top languages for Amaanullah (AK)" />
-
-<!-- Trophies (nice visual) -->
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="GitHub profile trophies" />
 
 <!-- Activity graph (optional; comment out if rate-limited) -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=akamaanullah&theme=react-dark&hide_border=true" alt="GitHub activity graph" /> -->
-
 </div>
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>
+</p>
 
 ---
 
+<a id="connect"></a>
 ## 🤝 Let’s Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=firefox-browser&logoColor=white)](https://amaanullah.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akamaanullah)
@@ -251,6 +269,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 
 ---
 
+<a id="timeline"></a>
 <details>
 <summary><strong>🗓️ Timeline</strong></summary>
 

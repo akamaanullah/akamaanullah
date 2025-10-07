@@ -14,12 +14,12 @@
 />
 
 <!-- Quick badges -->
-<a href="https://amaanullah.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amaanullah.com-0ea5e9?logo=firefox-browser&logoColor=white"></a>
-<a href="https://linkedin.com/in/akamaanullah"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/akamaanullah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-111111?logo=github"></a>
-<a href="https://instagram.com/akamaanullah"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-C13584?logo=instagram&logoColor=white"></a>
-<a href="https://behance.net/muhammadzain121"><img alt="Behance" src="https://img.shields.io/badge/Behance-Portfolio-1769ff?logo=behance&logoColor=white"></a>
-<a href="https://linktr.ee/akamaanullah"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-Links-43e55e?logo=linktree&logoColor=white"></a>
+<a href="https://amaanullah.com"><img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-amaanullah.com-0ea5e9?logo=firefox-browser&logoColor=white"></a>
+<a href="https://linkedin.com/in/akamaanullah"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/akamaanullah"><img alt="GitHub follow" src="https://img.shields.io/badge/GitHub-Follow-111111?logo=github"></a>
+<a href="https://instagram.com/akamaanullah"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-Follow-C13584?logo=instagram&logoColor=white"></a>
+<a href="https://behance.net/muhammadzain121"><img alt="Behance portfolio" src="https://img.shields.io/badge/Behance-Portfolio-1769ff?logo=behance&logoColor=white"></a>
+<a href="https://linktr.ee/akamaanullah"><img alt="Linktree links" src="https://img.shields.io/badge/Linktree-Links-43e55e?logo=linktree&logoColor=white"></a>
 
 <img src="https://komarev.com/ghpvc/?username=akamaanullah&style=flat&label=Profile+views" alt="profile views" />
 
@@ -30,21 +30,26 @@
 ---
 
 ## 📌 Table of Contents
-- [About Me](#-about-me)
-- [Highlights](#-highlights)
-- [Now](#-now)
-- [Services (SEO)](#-services-seo)
-- [Skills](#-skills)
-- [Featured Projects](#-featured-projects)
-- [Open Source & Writing](#-open-source--writing)
-- [GitHub Stats](#-github-stats)
-- [Let’s Connect](#-lets-connect)
-- [Timeline](#-timeline)
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-0ea5e9?style=for-the-badge" alt="About Me" /></a>
+  <a href="#-highlights"><img src="https://img.shields.io/badge/Highlights-9333ea?style=for-the-badge" alt="Highlights" /></a>
+  <a href="#-now"><img src="https://img.shields.io/badge/Now-14b8a6?style=for-the-badge" alt="Now" /></a>
+  <a href="#-services"><img src="https://img.shields.io/badge/Services-22c55e?style=for-the-badge" alt="Services" /></a>
+  <a href="#-skills"><img src="https://img.shields.io/badge/Skills-f59e0b?style=for-the-badge" alt="Skills" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured%20Projects-ef4444?style=for-the-badge" alt="Featured Projects" /></a>
+  <a href="#-open-source--writing"><img src="https://img.shields.io/badge/Open%20Source%20%26%20Writing-64748b?style=for-the-badge" alt="Open Source & Writing" /></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-0ea5e9?style=for-the-badge" alt="GitHub Stats" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Let%E2%80%99s%20Connect-9333ea?style=for-the-badge" alt="Let's Connect" /></a>
+  <a href="#-timeline"><img src="https://img.shields.io/badge/Timeline-14b8a6?style=for-the-badge" alt="Timeline" /></a>
+</p>
 
 ---
 
 ## 🔎 About Me
 I ship **real products** that blend **great UX** with **clean, scalable code**. I love turning ideas into usable software — **wireframe → prototype → production**, with a focus on observability and maintainability.
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
@@ -54,12 +59,16 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 - 🧩 Designed **component libraries** in Figma → faster handoff, consistent UI
 - 🧑‍🏫 Mentoring juniors; learning **React.js / Node.js / Bun.js** for full JS stack
 
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+
 ---
 
 ## 📅 Now
 - 🚧 Building: internal **CRM/Chat** tools & analytics dashboards  
 - 📖 Learning: **React Query, Next.js, RSC**, **Bun runtime**  
 - 🧪 Exploring: **WebSockets**, **ETL/reporting** for product teams
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
@@ -70,6 +79,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 - ✅ **UX design** systems (Figma → dev-ready specs)
 - ✅ **Optimizations:** DB indexing, caching, API performance
 
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
@@ -80,6 +90,8 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 
 **Primary Stack:** PHP/Laravel • MySQL • Flutter/Firebase  
 **Design & Tools:** Figma, Photoshop, Git, CI/CD, REST APIs
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
@@ -98,13 +110,18 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 <summary>📸 Previews (click to expand)</summary>
 
 - Screenshots/GIFs can go here for each project (boosts engagement & SEO with alt text).
+
 </details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
 ## 🌿 Open Source & Writing
 - I write about **clean architecture**, **UI systems**, and **product analytics**.  
 - 💌 Collaborations: **[info@amaanullah.com](mailto:info@amaanullah.com)**
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 
@@ -125,6 +142,8 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=akamaanullah&theme=react-dark&hide_border=true" alt="GitHub activity graph" /> -->
 
 </div>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
 ---
 

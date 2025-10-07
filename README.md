@@ -63,15 +63,13 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 
 ---
 
-## 🔍 Services (SEO)
-> *Keywords to help people find me via GitHub & Google.*  
-**Laravel developer Pakistan**, **Flutter Firebase mobile app**, **eCommerce in Laravel**, **admin dashboards**, **real-time chat**, **REST API development**, **UI/UX design**, **MySQL performance & schema design**, **analytics dashboards**, **payment & auth integration**, **React/Node (in progress)**.
-
+## 🔍 Services
 - ✅ Custom **Laravel** apps (RBAC, multi-tenant, queues, mailers)
 - ✅ **Flutter** apps (Auth, Firestore/Realtime DB, FCM, media uploads)
 - ✅ **Dashboards** & data viz (charts, exports, audit logs)
 - ✅ **UX design** systems (Figma → dev-ready specs)
-- ✅ **Optimizations**: DB indexing, caching, API performance
+- ✅ **Optimizations:** DB indexing, caching, API performance
+
 
 ---
 

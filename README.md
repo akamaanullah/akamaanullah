@@ -96,24 +96,116 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 ---
 
 ## 🚀 Featured Projects
-(Also pinned on my profile)
+<sub>(Also pinned on my profile)</sub>
 
-| Project | What it is | Links |
-|---|---|---|
-| **Tour Guide Mobile App** | Explore Pakistan with curated destinations, maps & reviews | 🔗 [Case Study](https://amaanullah.com/portfolio-details.php?slug=tour-guide-mobile-app--explore-pakistan-like-never-before) |
-| **Chatrox Mobile App** | Real-time Flutter chat (groups, media, notifications) | 🔗 [Case Study](https://amaanullah.com/portfolio-details.php?slug=chatrox-mobile-app--real-time-communication-on-the-go) |
-| **Chatrox Web App** | Web chat & collaboration (presence, pins, files) | 🔗 [Case Study](https://amaanullah.com/portfolio-details.php?slug=chatrox--real-time-chat--collaboration-web-app) |
-| **CRM – Velspra** | Sales/leads CRM with dashboards & RBAC | 🔗 [Case Study](https://amaanullah.com/portfolio-details.php?slug=crm-velspra--sales--leads-management-system) |
-| **Umrah Al Badal** | Umrah service platform for booking & management | 🔗 [Case Study](https://amaanullah.com/portfolio-details.php?slug=umrah-al-badal--umrah-service-platform) |
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it is</th>
+    <th align="left">Stack</th>
+    <th align="left">Links</th>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Tour Guide Mobile App</strong><br/>
+      <sub>City explorer with guides, maps & reviews</sub>
+    </td>
+    <td>Explore Pakistan with curated destinations, maps & user reviews.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase" height="22" alt="Flutter, Firebase" />
+      <code>Flutter</code> <code>Firebase</code>
+    </td>
+    <td>
+      <a href="https://amaanullah.com/portfolio-details.php?slug=tour-guide-mobile-app--explore-pakistan-like-never-before">
+        <img src="https://img.shields.io/badge/🔗%20Case%20Study-0ea5e9?style=for-the-badge" alt="Case Study"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Chatrox Mobile App</strong><br/>
+      <sub>Realtime chat on the go</sub>
+    </td>
+    <td>Groups, media sharing, push notifications, typing/presence.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="22" alt="Flutter, Dart, Firebase" />
+      <code>Flutter</code> <code>Dart</code> <code>Firebase</code>
+    </td>
+    <td>
+      <a href="https://amaanullah.com/portfolio-details.php?slug=chatrox-mobile-app--real-time-communication-on-the-go">
+        <img src="https://img.shields.io/badge/🔗%20Case%20Study-0ea5e9?style=for-the-badge" alt="Case Study"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Chatrox Web App</strong><br/>
+      <sub>Collaboration for web</sub>
+    </td>
+    <td>Web chat with pins, files, and presence—built for teams.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,js" height="22" alt="PHP, Laravel, JavaScript" />
+      <code>Laravel</code> <code>JS</code>
+    </td>
+    <td>
+      <a href="https://amaanullah.com/portfolio-details.php?slug=chatrox--real-time-chat--collaboration-web-app">
+        <img src="https://img.shields.io/badge/🔗%20Case%20Study-0ea5e9?style=for-the-badge" alt="Case Study"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>CRM – Velspra</strong><br/>
+      <sub>Sales & leads CRM</sub>
+    </td>
+    <td>RBAC, dashboards, exports, activity log & performance insights.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap" height="22" alt="Laravel, MySQL, Bootstrap" />
+      <code>Laravel</code> <code>MySQL</code>
+    </td>
+    <td>
+      <a href="https://amaanullah.com/portfolio-details.php?slug=crm-velspra--sales--leads-management-system">
+        <img src="https://img.shields.io/badge/🔗%20Case%20Study-0ea5e9?style=for-the-badge" alt="Case Study"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Umrah Al Badal</strong><br/>
+      <sub>Umrah booking & management</sub>
+    </td>
+    <td>Service workflow, orders, payments & admin controls.</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="22" alt="PHP, Laravel, MySQL" />
+      <code>Laravel</code> <code>MySQL</code>
+    </td>
+    <td>
+      <a href="https://amaanullah.com/portfolio-details.php?slug=umrah-al-badal--umrah-service-platform">
+        <img src="https://img.shields.io/badge/🔗%20Case%20Study-0ea5e9?style=for-the-badge" alt="Case Study"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>📸 Previews (click to expand)</summary>
 
-- Screenshots/GIFs can go here for each project (boosts engagement & SEO with alt text).
+- Screenshots/GIFs can go here for each project (with descriptive **alt** text).
 
 </details>
 
-<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+<!-- Back to top (badge button) -->
+<p align="right">
+  <a href="#-table-of-contents">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20top-9333ea?style=for-the-badge" alt="Back to top" />
+  </a>
+</p>
+
 
 ---
 

@@ -63,7 +63,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 - 🚀 Built **real-time chat & CRM dashboards** (role-based access, analytics, exports)
 - 📱 Delivered **Flutter + Firebase** mobile apps with auth, storage & push notifications
 - 🧩 Designed **component libraries** in Figma → faster handoff, consistent UI
-- 🧑‍🏫 Mentoring juniors; learning **React.js / Node.js / Bun.js** for full JS stack
+- 🧑‍🏫 Mentoring juniors; learning **PHP / Flutter / JS** for full backend stack
 
 <p align="right">
   <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0ea5e9?style=for-the-badge" alt="Back to top" /></a>

@@ -244,8 +244,7 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamaanullah&layout=compact&theme=radical" alt="Top languages for Amaanullah (AK)" />
 <br/>
-[<img src="https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="GitHub profile trophies" />](https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&margin-w=10&margin-h=10&no-bg=true
-)
+<img src="https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="GitHub profile trophies" />](https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&margin-w=10&margin-h=10&no-bg=true)
 
 <!-- Activity graph (optional; comment out if rate-limited) -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=akamaanullah&theme=react-dark&hide_border=true" alt="GitHub activity graph" /> -->

@@ -234,21 +234,23 @@ I ship **real products** that blend **great UX** with **clean, scalable code**. 
 
 ---
 
+<!-- ========================== 📊 GITHUB STATS ========================== -->
 <a id="stats"></a>
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
+
 <div align="center">
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amaanullah GitHub Stats" height="175" />
+  
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&theme=radical" alt="GitHub stats for Amaanullah (AK)" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=akamaanullah&theme=radical" alt="GitHub contribution streak for Amaanullah (AK)" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamaanullah&layout=compact&theme=radical" alt="Top languages for Amaanullah (AK)" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=dracula&no-bg=true" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamaanullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+  
+  <br/><br/>
 
-
-<!-- Activity graph (optional; comment out if rate-limited) -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=akamaanullah&theme=react-dark&hide_border=true" alt="GitHub activity graph" /> -->
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=akamaanullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
 </div>
 
 <p align="right">

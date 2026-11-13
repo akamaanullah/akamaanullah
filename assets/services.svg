@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 314" width="1000" height="314" role="img" aria-label="Services">
+<defs><linearGradient id="og" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#ea580c"/></linearGradient><style>.mono{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,Menlo,monospace}.sans{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}</style></defs>
+<g>
+<rect x="1" y="1" width="318" height="148" rx="18" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
+<rect x="26" y="1" width="70" height="4" rx="2" fill="url(#og)"><animate attributeName="width" values="70;240;70" dur="5s" repeatCount="indefinite"/></rect>
+<text x="298" y="76" text-anchor="end" class="sans" font-size="80" font-weight="900" fill="#f97316" fill-opacity=".09">01</text>
+<text x="26" y="50" class="mono" font-size="13" fill="#f97316" letter-spacing="3">01 /</text>
+<text x="26" y="74" class="sans" font-size="22" font-weight="800" fill="#ffffff">Custom Laravel Apps</text>
+<text x="26" y="96" class="mono" font-size="13.5" fill="#a8a29e">RBAC · multi-tenant</text><text x="26" y="118" class="mono" font-size="13.5" fill="#a8a29e">queues · mailers</text>
+</g><g>
+<rect x="341" y="1" width="318" height="148" rx="18" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
+<rect x="366" y="1" width="70" height="4" rx="2" fill="url(#og)"><animate attributeName="width" values="70;240;70" dur="6s" repeatCount="indefinite"/></rect>
+<text x="638" y="76" text-anchor="end" class="sans" font-size="80" font-weight="900" fill="#f97316" fill-opacity=".09">02</text>
+<text x="366" y="50" class="mono" font-size="13" fill="#f97316" letter-spacing="3">02 /</text>
+<text x="366" y="74" class="sans" font-size="22" font-weight="800" fill="#ffffff">Flutter Apps</text>
+<text x="366" y="96" class="mono" font-size="13.5" fill="#a8a29e">Auth · Firestore / Realtime DB</text><text x="366" y="118" class="mono" font-size="13.5" fill="#a8a29e">FCM · media uploads</text>
+</g><g>
+<rect x="681" y="1" width="318" height="148" rx="18" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
+<rect x="706" y="1" width="70" height="4" rx="2" fill="url(#og)"><animate attributeName="width" values="70;240;70" dur="7s" repeatCount="indefinite"/></rect>
+<text x="978" y="76" text-anchor="end" class="sans" font-size="80" font-weight="900" fill="#f97316" fill-opacity=".09">03</text>
+<text x="706" y="50" class="mono" font-size="13" fill="#f97316" letter-spacing="3">03 /</text>
+<text x="706" y="74" class="sans" font-size="22" font-weight="800" fill="#ffffff">Dashboards &amp; Data Viz</text>
+<text x="706" y="96" class="mono" font-size="13.5" fill="#a8a29e">Charts · exports</text><text x="706" y="118" class="mono" font-size="13.5" fill="#a8a29e">audit logs</text>
+</g><g>
+<rect x="1" y="165" width="488" height="148" rx="18" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
+<rect x="26" y="165" width="70" height="4" rx="2" fill="url(#og)"><animate attributeName="width" values="70;410;70" dur="8s" repeatCount="indefinite"/></rect>
+<text x="468" y="240" text-anchor="end" class="sans" font-size="80" font-weight="900" fill="#f97316" fill-opacity=".09">04</text>
+<text x="26" y="214" class="mono" font-size="13" fill="#f97316" letter-spacing="3">04 /</text>
+<text x="26" y="238" class="sans" font-size="22" font-weight="800" fill="#ffffff">UX Design Systems</text>
+<text x="26" y="260" class="mono" font-size="13.5" fill="#a8a29e">Figma → dev-ready specs</text><text x="26" y="282" class="mono" font-size="13.5" fill="#a8a29e">Component libraries for faster handoff</text>
+</g><g>
+<rect x="511" y="165" width="488" height="148" rx="18" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
+<rect x="536" y="165" width="70" height="4" rx="2" fill="url(#og)"><animate attributeName="width" values="70;410;70" dur="9s" repeatCount="indefinite"/></rect>
+<text x="978" y="240" text-anchor="end" class="sans" font-size="80" font-weight="900" fill="#f97316" fill-opacity=".09">05</text>
+<text x="536" y="214" class="mono" font-size="13" fill="#f97316" letter-spacing="3">05 /</text>
+<text x="536" y="238" class="sans" font-size="22" font-weight="800" fill="#ffffff">Performance Optimization</text>
+<text x="536" y="260" class="mono" font-size="13.5" fill="#a8a29e">DB indexing · caching</text><text x="536" y="282" class="mono" font-size="13.5" fill="#a8a29e">API performance tuning</text>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" width="520" height="200" role="img" aria-label="Tour Guide App">
+<defs>
+<linearGradient id="og" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#ea580c"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect x="1" y="1" width="518" height="198" rx="20"/></clipPath>
+<style>.mono{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,Menlo,monospace}.sans{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}</style>
+</defs>
+<rect x="1" y="1" width="518" height="198" rx="20" fill="#0f1117" stroke="#f97316" stroke-opacity=".4" stroke-width="2"/>
+<g clip-path="url(#cp)">
+<rect x="0" y="0" width="8" height="200" fill="url(#og)"/>
+<circle cx="500" cy="-10" r="110" fill="#f97316" fill-opacity=".1"/>
+<text x="500" y="108" text-anchor="end" class="sans" font-size="104" font-weight="900" fill="#f97316" fill-opacity=".08">01</text>
+<rect x="-160" y="0" width="140" height="200" fill="url(#sh)" transform="skewX(-18)"><animate attributeName="x" values="-160;640" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+<text x="36" y="40" class="mono" font-size="12" fill="#f97316" letter-spacing="3">MOBILE APP</text>
+<text x="36" y="76" class="sans" font-size="27" font-weight="800" fill="#ffffff">Tour Guide App</text>
+<text x="36" y="104" class="sans" font-size="14.5" fill="#a8a29e">Explore Pakistan with curated destinations, maps and</text><text x="36" y="126" class="sans" font-size="14.5" fill="#a8a29e">user reviews.</text>
+<rect x="36" y="146" width="82" height="28" rx="14" fill="#f97316" fill-opacity=".1" stroke="#f97316" stroke-opacity=".45"/><text x="77.0" y="165" text-anchor="middle" class="mono" font-size="12" fill="#fdba74">Flutter</text><rect x="126" y="146" width="90" height="28" rx="14" fill="#f97316" fill-opacity=".1" stroke="#f97316" stroke-opacity=".45"/><text x="171.0" y="165" text-anchor="middle" class="mono" font-size="12" fill="#fdba74">Firebase</text>
+<g><text x="484" y="165" text-anchor="end" class="mono" font-size="12" font-weight="700" fill="#fbbf24" letter-spacing="2">CASE STUDY →<animateTransform attributeName="transform" type="translate" values="0 0;6 0;0 0" dur="1.6s" repeatCount="indefinite"/></text></g>
+</svg>

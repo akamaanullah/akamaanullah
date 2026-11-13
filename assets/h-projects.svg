@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 92" width="1000" height="92" role="img" aria-label="FEATURED PROJECTS">
+<defs>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#f97316" stop-opacity="0"/><stop offset=".5" stop-color="#fbbf24"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#ea580c"/></linearGradient>
+<clipPath id="cp"><rect x="1" y="1" width="998" height="90" rx="18"/></clipPath>
+<style>.mono{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,Menlo,monospace}.sans{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}</style>
+</defs>
+<rect x="1" y="1" width="998" height="90" rx="18" fill="#0a0a0f" stroke="#f97316" stroke-opacity=".35" stroke-width="2"/>
+<g clip-path="url(#cp)">
+<rect x="0" y="0" width="7" height="92" fill="url(#bar)"/>
+<rect x="0" y="86" width="1000" height="4" fill="#f97316" fill-opacity=".15"/>
+<rect x="-240" y="86" width="240" height="4" fill="url(#sw)"><animate attributeName="x" values="-240;1000" dur="3.2s" repeatCount="indefinite"/></rect>
+</g>
+<text x="32" y="33" class="mono" font-size="15" fill="#f97316" letter-spacing="3">// 05</text>
+<text x="32" y="68" class="sans" font-size="31" font-weight="900" fill="#ffffff" letter-spacing="4">FEATURED PROJECTS</text>
+<text x="968" y="66" text-anchor="end" class="mono" font-size="13" fill="#78716c">ls ./shipped</text>
+</svg>

@@ -13,10 +13,6 @@
 <a href="https://linktr.ee/akamaanullah"><img src="https://img.shields.io/badge/LINKTREE-LINKS-9a3412?style=flat-square&logo=linktree&logoColor=white&labelColor=0a0a0f" alt="Linktree"/></a>
 <img src="https://komarev.com/ghpvc/?username=akamaanullah&style=flat-square&label=VIEWS&color=f97316&labelColor=0a0a0f" alt="Profile views" />
 
-<br/><br/>
-
-<a href="https://amaanullah.com"><b>🌐 amaanullah.com</b></a>
-
 </div>
 
 <br/>

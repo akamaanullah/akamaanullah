@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Amaanullah (AK) - Full-Stack Developer and Product Designer" />
+<a href="https://amaanullah.com"><img src="assets/hero.svg" width="100%" alt="Amaanullah (AK) - Full-Stack Developer and Product Designer - amaanullah.com" /></a>
 
 <br/>
 
@@ -13,6 +13,10 @@
 <a href="https://linktr.ee/akamaanullah"><img src="https://img.shields.io/badge/LINKTREE-LINKS-9a3412?style=flat-square&logo=linktree&logoColor=white&labelColor=0a0a0f" alt="Linktree"/></a>
 <img src="https://komarev.com/ghpvc/?username=akamaanullah&style=flat-square&label=VIEWS&color=f97316&labelColor=0a0a0f" alt="Profile views" />
 
+<br/><br/>
+
+<a href="https://amaanullah.com"><b>🌐 amaanullah.com</b></a>
+
 </div>
 
 <br/>
@@ -21,7 +25,7 @@
 
 <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, stack, current focus and motto" />
 
-> I ship **real products** that blend **great UX** with **clean, scalable code**, taking ideas from **wireframe → prototype → production** with a focus on observability and maintainability. Currently mentoring juniors and building real-time chat and CRM dashboards with role-based access, analytics and exports.
+> I ship **real products** that blend **great UX** with **clean, scalable code**, taking ideas from **wireframe → prototype → production** with a focus on observability and maintainability. Portfolio and case studies live at **[amaanullah.com](https://amaanullah.com)**. Currently mentoring juniors and building real-time chat and CRM dashboards with role-based access, analytics and exports.
 
 <br/>
 
@@ -58,22 +62,22 @@
 
 <img src="assets/h-stats.svg" width="100%" alt="GitHub stats" />
 
+<img src="assets/stats.svg" width="100%" alt="GitHub stats and top languages" />
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akamaanullah&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=f97316&icon_color=fb923c&text_color=fed7aa&ring_color=f97316&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamaanullah&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=f97316&text_color=fed7aa" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=akamaanullah&hide_border=true&background=0a0a0f&ring=f97316&fire=fb923c&currStreakNum=fed7aa&currStreakLabel=f97316&sideNums=fed7aa&sideLabels=f97316&dates=9a3412" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=akamaanullah&theme=juicyfruit&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akamaanullah&bg_color=0a0a0f&color=fed7aa&line=f97316&point=ffffff&area=true&area_color=ea580c&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
 <br/>
 
-<a href="mailto:info@amaanullah.com"><img src="assets/connect.svg" width="100%" alt="Let's build something - info@amaanullah.com" /></a>
+<img src="assets/connect.svg" width="100%" alt="Let's build something - amaanullah.com" />
+
+<p align="center">
+  <a href="https://amaanullah.com"><img src="assets/btn-site.svg" width="340" alt="Visit amaanullah.com" /></a>
+  <a href="mailto:info@amaanullah.com"><img src="assets/btn-mail.svg" width="340" alt="Email info@amaanullah.com" /></a>
+</p>
 
 <details>
 <summary><strong>Timeline</strong></summary>

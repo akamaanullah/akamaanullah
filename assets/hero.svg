@@ -51,6 +51,8 @@
 <text x="1090" y="360" class="mono fl2" font-size="34" fill="#fbbf24" fill-opacity=".3">&lt;/&gt;</text>
 <text x="860" y="390" class="mono fl" font-size="26" fill="#ea580c" fill-opacity=".35">$_</text>
 
+<rect x="900" y="378" width="200" height="36" rx="18" fill="#f97316" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".6"/>
+<text x="1000" y="402" text-anchor="middle" class="mono" font-size="16" font-weight="700" fill="#fbbf24" letter-spacing="1">amaanullah.com</text>
 <rect y="434" width="1200" height="6" fill="url(#shine)"/>
 </g>
 <rect x="1" y="1" width="1198" height="438" rx="25" fill="none" stroke="#f97316" stroke-opacity=".4" stroke-width="2"/>

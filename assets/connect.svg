@@ -1,24 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Let's build something. info@amaanullah.com">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Let's build something. amaanullah.com">
 <defs>
-<linearGradient id="spin" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="300">
+<linearGradient id="spin" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="230">
 <stop offset="0" stop-color="#fbbf24"/><stop offset=".35" stop-color="#f97316" stop-opacity=".1"/><stop offset=".65" stop-color="#f97316" stop-opacity=".1"/><stop offset="1" stop-color="#ea580c"/>
-<animateTransform attributeName="gradientTransform" type="rotate" from="0 500 150" to="360 500 150" dur="6s" repeatCount="indefinite"/>
+<animateTransform attributeName="gradientTransform" type="rotate" from="0 500 115" to="360 500 115" dur="6s" repeatCount="indefinite"/>
 </linearGradient>
 <linearGradient id="og" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#ea580c"/></linearGradient>
 <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
-<clipPath id="cp"><rect x="2" y="2" width="996" height="296" rx="28"/></clipPath>
+<clipPath id="cp"><rect x="2" y="2" width="996" height="226" rx="28"/></clipPath>
 <style>.mono{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,Menlo,monospace}.sans{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}</style>
 </defs>
-<rect x="2" y="2" width="996" height="296" rx="28" fill="#0a0a0f"/>
+<rect x="2" y="2" width="996" height="226" rx="28" fill="#0a0a0f"/>
 <g clip-path="url(#cp)">
-<circle cx="150" cy="60" r="130" fill="#f97316" opacity=".3" filter="url(#blur)"><animate attributeName="cx" values="150;300;150" dur="9s" repeatCount="indefinite"/></circle>
-<circle cx="860" cy="260" r="140" fill="#dc2626" opacity=".28" filter="url(#blur)"><animate attributeName="cx" values="860;700;860" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="150" cy="40" r="130" fill="#f97316" opacity=".3" filter="url(#blur)"><animate attributeName="cx" values="150;300;150" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="860" cy="210" r="140" fill="#dc2626" opacity=".28" filter="url(#blur)"><animate attributeName="cx" values="860;700;860" dur="11s" repeatCount="indefinite"/></circle>
 </g>
-<rect x="3" y="3" width="994" height="294" rx="27" fill="none" stroke="url(#spin)" stroke-width="4"/>
-<text x="500" y="78" text-anchor="middle" class="mono" font-size="14" fill="#f97316" letter-spacing="5">// LET'S CONNECT</text>
-<text x="500" y="146" text-anchor="middle" class="sans" font-size="52" font-weight="900" fill="url(#og)" letter-spacing="2">LET'S BUILD SOMETHING</text>
-<text x="500" y="182" text-anchor="middle" class="mono" font-size="16" fill="#a8a29e">Freelance  •  Collaborations  •  Product teams</text>
-<rect x="320" y="208" width="360" height="56" rx="28" fill="none" stroke="#f97316" stroke-width="2"><animate attributeName="opacity" values=".9;0" dur="2s" repeatCount="indefinite"/><animate attributeName="x" values="320;296" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="208;184" dur="2s" repeatCount="indefinite"/><animate attributeName="width" values="360;408" dur="2s" repeatCount="indefinite"/><animate attributeName="height" values="56;104" dur="2s" repeatCount="indefinite"/><animate attributeName="rx" values="28;52" dur="2s" repeatCount="indefinite"/></rect>
-<rect x="320" y="208" width="360" height="56" rx="28" fill="url(#og)"/>
-<text x="500" y="243" text-anchor="middle" class="mono" font-size="21" font-weight="700" fill="#1c0a00">info@amaanullah.com</text>
+<rect x="3" y="3" width="994" height="224" rx="27" fill="none" stroke="url(#spin)" stroke-width="4"/>
+<text x="500" y="62" text-anchor="middle" class="mono" font-size="14" fill="#f97316" letter-spacing="5">// LET'S CONNECT</text>
+<text x="500" y="128" text-anchor="middle" class="sans" font-size="52" font-weight="900" fill="url(#og)" letter-spacing="2">LET'S BUILD SOMETHING</text>
+<text x="500" y="170" text-anchor="middle" class="mono" font-size="16" fill="#a8a29e">Freelance  •  Collaborations  •  Product teams</text>
+<text x="500" y="200" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="#fbbf24" letter-spacing="2">amaanullah.com</text>
 </svg>

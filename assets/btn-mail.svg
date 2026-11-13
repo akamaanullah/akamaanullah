@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 68" width="340" height="68" role="img" aria-label="info@amaanullah.com">
+<defs><linearGradient id="og" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#ea580c"/></linearGradient><style>.mono{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,Menlo,monospace}.sans{font-family:'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}</style></defs>
+<rect x="14" y="8" width="312" height="52" rx="26" fill="none" stroke="#f97316" stroke-width="2"><animate attributeName="opacity" values=".9;0" dur="2s" repeatCount="indefinite"/><animate attributeName="x" values="14;4" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="8;1" dur="2s" repeatCount="indefinite"/><animate attributeName="width" values="312;332" dur="2s" repeatCount="indefinite"/><animate attributeName="height" values="52;66" dur="2s" repeatCount="indefinite"/><animate attributeName="rx" values="26;33" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="14" y="8" width="312" height="52" rx="26" fill="#0a0a0f" stroke="#f97316" stroke-width="2"/>
+<text x="170" y="40" text-anchor="middle" class="mono" font-size="17" font-weight="700" fill="#fdba74" letter-spacing=".5">EMAIL  info@amaanullah.com</text>
+</svg>

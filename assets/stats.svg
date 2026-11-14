@@ -7,7 +7,7 @@
 <g>
 <rect x="24" y="24" width="216" height="116" rx="16" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
 <circle cx="220" cy="44" r="4" fill="#f97316"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="46" y="90" class="sans" font-size="46" font-weight="900" fill="url(#og)">45</text>
+<text x="46" y="90" class="sans" font-size="46" font-weight="900" fill="url(#og)">47</text>
 <text x="46" y="118" class="mono" font-size="12" fill="#a8a29e" letter-spacing="2.5">REPOSITORIES</text>
 </g><g>
 <rect x="256" y="24" width="216" height="116" rx="16" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
@@ -29,28 +29,28 @@
 <text x="520" y="52" class="mono" font-size="13" fill="#f97316" letter-spacing="3">// TOP LANGUAGES</text>
 <text x="520" y="97" class="mono" font-size="14" fill="#fed7aa">PHP</text>
 <rect x="650" y="86" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="86" width="0" height="10" rx="5" fill="#fbbf24"><animate attributeName="width" from="0" to="97.8" dur="1.2s" begin="0.0s" fill="freeze"/></rect>
-<text x="976" y="97" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">39.1%</text>
+<rect x="650" y="86" width="0" height="10" rx="5" fill="#fbbf24"><animate attributeName="width" from="0" to="95.6" dur="1.2s" begin="0.0s" fill="freeze"/></rect>
+<text x="976" y="97" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">38.2%</text>
 <text x="520" y="129" class="mono" font-size="14" fill="#fed7aa">JavaScript</text>
 <rect x="650" y="118" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="118" width="0" height="10" rx="5" fill="#f97316"><animate attributeName="width" from="0" to="53.6" dur="1.2s" begin="0.15s" fill="freeze"/></rect>
-<text x="976" y="129" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">21.4%</text>
+<rect x="650" y="118" width="0" height="10" rx="5" fill="#f97316"><animate attributeName="width" from="0" to="55.1" dur="1.2s" begin="0.15s" fill="freeze"/></rect>
+<text x="976" y="129" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">22.0%</text>
 <text x="520" y="161" class="mono" font-size="14" fill="#fed7aa">CSS</text>
 <rect x="650" y="150" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="150" width="0" height="10" rx="5" fill="#ea580c"><animate attributeName="width" from="0" to="43.6" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
-<text x="976" y="161" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">17.4%</text>
+<rect x="650" y="150" width="0" height="10" rx="5" fill="#ea580c"><animate attributeName="width" from="0" to="44.6" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+<text x="976" y="161" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">17.8%</text>
 <text x="520" y="193" class="mono" font-size="14" fill="#fed7aa">Dart</text>
 <rect x="650" y="182" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="182" width="0" height="10" rx="5" fill="#fb923c"><animate attributeName="width" from="0" to="17.9" dur="1.2s" begin="0.44999999999999996s" fill="freeze"/></rect>
-<text x="976" y="193" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">7.2%</text>
+<rect x="650" y="182" width="0" height="10" rx="5" fill="#fb923c"><animate attributeName="width" from="0" to="17.5" dur="1.2s" begin="0.44999999999999996s" fill="freeze"/></rect>
+<text x="976" y="193" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">7.0%</text>
 <text x="520" y="225" class="mono" font-size="14" fill="#fed7aa">HTML</text>
 <rect x="650" y="214" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="214" width="0" height="10" rx="5" fill="#c2410c"><animate attributeName="width" from="0" to="15.5" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
-<text x="976" y="225" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">6.2%</text>
+<rect x="650" y="214" width="0" height="10" rx="5" fill="#c2410c"><animate attributeName="width" from="0" to="16.0" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+<text x="976" y="225" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">6.4%</text>
 <text x="520" y="257" class="mono" font-size="14" fill="#fed7aa">SCSS</text>
 <rect x="650" y="246" width="250" height="10" rx="5" fill="#f97316" fill-opacity=".12"/>
-<rect x="650" y="246" width="0" height="10" rx="5" fill="#fdba74"><animate attributeName="width" from="0" to="10.1" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
+<rect x="650" y="246" width="0" height="10" rx="5" fill="#fdba74"><animate attributeName="width" from="0" to="9.9" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
 <text x="976" y="257" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">4.0%</text>
 
-<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-13</text>
+<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-14</text>
 </svg>

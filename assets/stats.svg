@@ -17,7 +17,7 @@
 </g><g>
 <rect x="24" y="156" width="216" height="116" rx="16" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
 <circle cx="220" cy="176" r="4" fill="#f97316"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
-<text x="46" y="222" class="sans" font-size="46" font-weight="900" fill="url(#og)">5</text>
+<text x="46" y="222" class="sans" font-size="46" font-weight="900" fill="url(#og)">6</text>
 <text x="46" y="250" class="mono" font-size="12" fill="#a8a29e" letter-spacing="2.5">FOLLOWERS</text>
 </g><g>
 <rect x="256" y="156" width="216" height="116" rx="16" fill="#12141a" stroke="#f97316" stroke-opacity=".3" stroke-width="1.5"/>
@@ -52,5 +52,5 @@
 <rect x="650" y="246" width="0" height="10" rx="5" fill="#fdba74"><animate attributeName="width" from="0" to="9.7" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
 <text x="976" y="257" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">3.9%</text>
 
-<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-19</text>
+<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-20</text>
 </svg>

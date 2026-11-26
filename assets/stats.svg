@@ -52,5 +52,5 @@
 <rect x="650" y="246" width="0" height="10" rx="5" fill="#fdba74"><animate attributeName="width" from="0" to="9.5" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
 <text x="976" y="257" text-anchor="end" class="mono" font-size="13" fill="#a8a29e">3.8%</text>
 
-<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-25</text>
+<text x="976" y="288" text-anchor="end" class="mono" font-size="11" fill="#57534e">updated 2026-11-26</text>
 </svg>
